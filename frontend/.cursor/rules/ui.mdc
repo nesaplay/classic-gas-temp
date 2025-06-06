@@ -1,0 +1,14 @@
+---
+description: 
+globs: /**/.(ts|tsx)
+alwaysApply: false
+---
+- Use Shadcn UI components with proper composition and customization
+- Build new ones in case the component doesn't exist yet
+- Follow Tailwind CSS class naming conventions and utility patterns
+- Implement mobile-first responsive design with Tailwind breakpoints
+- Maintain consistent spacing and layout using Tailwind's spacing scale
+- Use Tailwind's color system for consistent theming
+- Ensure components are accessible following WCAG guidelines
+- Keep component styles modular and reusable
+- Optimize component bundle size through proper code splitting

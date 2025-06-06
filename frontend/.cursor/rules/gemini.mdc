@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+- never write comments (unless specified)
+- only write console.errors if needed, but never console.logs (unless specified)
+- take into account structure of the project before making changes
